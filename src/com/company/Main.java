@@ -1,6 +1,7 @@
 package com.company;
 
 import integ1.MainParte1;
+import integ3.Fiesta;
 
 public class Main {
 
@@ -8,6 +9,7 @@ public class Main {
 
         // MainParte1.correrMain();
 
+        Fiesta.festejar();
     }
 }
 
