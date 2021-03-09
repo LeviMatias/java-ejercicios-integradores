@@ -6,7 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        MainParte1.correrMain();
+        // MainParte1.correrMain();
 
     }
 }
